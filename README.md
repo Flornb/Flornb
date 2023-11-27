@@ -8,9 +8,7 @@
 </p>
 
 <p align="center"><em>¡Hola <img src="https://cdn-icons-png.flaticon.com/512/3875/3875147.png" width="25"/>! Me llamo Florencia, puedes decirme Flora, tengo 32 años y soy Full Stack Developer.
-Recientemente culminé mis estudios como desarrolladora full-stack, además he realizado algunos cursos de frontend y backend para aplicar y consolidar mis conocimientos. 
-Mi objetivo es trabajar como programadora full-stack para empresas que necesiten un perfil junior. Tengo una gran disposición para seguir aprendiendo y una fuerte motivación para incorporar nuevos conocimientos y buenas prácticas en mi trabajo.
-En un nuevo trabajo, puedo aportar una gran energía, una mentalidad de trabajo en equipo, flexibilidad y dedicación. Me encanta colaborar en proyectos desafiantes y aprender de mis compañeros de trabajo.
+"Como desarrolladora full-stack con formación en la Universidad Tecnológica de Córdoba y la Academia Henry, cuento con 2 años de experiencia en el desarrollo de proyectos como freelancer. Mi principal objetivo es continuar mi crecimiento tanto profesional como personal. Poseo una fuerte disposición para seguir aprendiendo y una gran motivación para integrar nuevos conocimientos y las mejores prácticas en mi trabajo. Mi pasión por la tecnología se combina con una curiosidad insaciable que impulsa mi búsqueda constante de innovación y excelencia en cada proyecto en el que me involucro.
 ✩ Muchas gracias por leer sobre mi perfil y mostrar interés en mi trayectoria profesional. Si quieres conectarte conmigo, haz clic en "Información de contacto". ¡Hablemos! ✩ </p>
 <p align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHR1bDg3YXo0Nzl4OG5zazA3bjdmbHJyMmMxemgxb3BmZDB6cTI1eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="80"/></p><p align="center">¡Me gustaria compartirte mis habilidades!</em></p>
 
